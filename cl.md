@@ -35,9 +35,6 @@ I am excited about the prospect of contributing to Henkel's success and learning
 Sincerely,
 
 Mahmoud Hamed Namnam
-[Email Address]
-[Phone Number]
+[mahmoud.namnam72@gmail.com]
+[+201014309038]
 
----
-
-Remember to replace the placeholders with your actual contact information. Best of luck with your application, and I hope you secure the Data Analytics Summer Internship at Henkel!
