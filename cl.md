@@ -35,6 +35,6 @@ I am excited about the prospect of contributing to Henkel's success and learning
 Sincerely,
 
 Mahmoud Hamed Namnam
-[mahmoud.namnam72@gmail.com]
-[+201014309038]
+mahmoud.namnam72@gmail.com
++201014309038
 
