@@ -11,11 +11,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif"  />
+<img align="right" height="150" src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/main/img.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/mahmoud-hamed-10666b22a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
