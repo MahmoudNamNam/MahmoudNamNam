@@ -25,7 +25,7 @@
 </div>
 
 <div align="left">
-  <a href="https://discord.com/users/your-discord-id">
+  <a href="https://discord.com/users/mahmoud1097">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-hamed-10666b22a/" target="_blank">
