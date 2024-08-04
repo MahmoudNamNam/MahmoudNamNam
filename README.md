@@ -11,12 +11,12 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/main/img.gif"  />
+<img align="right" height="200" src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/main/img.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
