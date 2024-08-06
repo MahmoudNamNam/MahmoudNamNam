@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="mediaqueries.css" />
+  </head>
+  <body>
+    <nav id="desktop-nav">
+     
+      <div>
+        <ul class="nav-links">
+          <li><a href="#about">About</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+    <nav id="hamburger-nav">
+      <div class="hamburger-menu">
+        <div class="hamburger-icon" onclick="toggleMenu()">
+          <span style="background-color: white;"></span>
+          <span style="background-color: white;"></span>
+          <span style="background-color: white;"></span>
+
+        </div>
+        <div class="menu-links">
+          <li><a href="#about" onclick="toggleMenu()">About</a></li>
+          <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
+          <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+          <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
+        </div>
+      </div>
+    </nav>
+    <section id="profile">
+      <div class="section__pic-container" data-aos="fade-right">
+        <img src="./assets/image.png" alt="nmnm profile picture"  class="circle-image"/>
+      </div>
+      <div class="section__text" data-aos="zoom-in">
+        <p class="section__text__p1">Hello, I'm</p>
+        <h1 class="title">Mahmoud NamNam</h1>
+        <p class="section__text__p2">Data Scientist & Analyst</p>
+        <div class="btn-container">
+          <button
+            class="btn btn-color-1" 
+            
+            onclick="window.open('https://drive.google.com/file/d/1ViFHTpTwsff82FPgfx0n7-qdFlyvBsWb/view?usp=sharing')"
+          >
+            Resume
+          </button>
+          <button class="btn btn-color-2" onclick="location.href='./#contact'">
+            Contact Info
+          </button>
+        </div>
+        <div id="socials-container">
+            <button class="imgs-btn">
+              <img
+              src="./assets/linkedin.png"
+              alt="My LinkedIn profile"
+              class="icon"
+              onclick="location.href='https://www.linkedin.com/in/mahmoud-hamed-10666b22a/'"
+            />
+            <img
+              src="./assets/github.png"
+              alt="My Github profile"
+              class="icon"
+              onclick="location.href='https://github.com/MahmoudNamNam'"
+            />
+            <img
+              src="./assets/leetcode-svgrepo-com.svg"
+              alt="My Github profile"
+              class="icon"
+              onclick="location.href='https://leetcode.com/u/MahmoudNamNam/'"
+            />
+            </button>
+        </div>
+      </div>
+      <p><br/><br/><br/><br/><br/><strong data-aos="fade-left"  class="q">"Always believing, learning, and pursuing."</strong></p>
+    </section>
+    <section id="about" data-aos="zoom-in">
+      <p class="section__text__p1">Get To Know More</p>
+      <h1 class="title">About Me</h1>
+      <div class="section-container">
+        <div class="section__pic-container">
+          <img
+            src="./assets/me1.jpg"
+            alt="Profile picture"
+            class="about-pic circle-image"
+          
+          />
+        </div>
+        <div class="about-details-container">
+          <div class="about-containers">
+            <div class="details-container">
+              <img
+                src="./assets/experience.png"
+                alt="Experience icon"
+                class="icon"
+              />
+              <h3>Experience</h3>
+              <p>+ year<br />Data Science & Analytics</p>
+            </div>
+            <div class="details-container">
+              <img
+                src="./assets/education.png"
+                alt="Education icon"
+                class="icon"
+              />
+              <h3>Education</h3>
+              <p>CS Major</p>
+            </div>
+          </div>
+          <div class="text-container">
+            <p>
+              <br/>"Always believing, learning, and pursuing. Self-taught,
+              multi-passionate, tech nerd, resilient, seeker, and a fighter.
+              With an insatiable appetite for knowledge and an unwavering commitment to personal growth,
+              I navigate life's journey with determination and curiosity.
+              Embracing challenges as opportunities and fueled by a relentless desire to achieve,
+              I thrive in the dynamic landscape through continuous self-improvement.
+              My journey is a testament to the power of believing and resilience."
+            </p>
+          </div>
+        </div>
+      </div>
+      <img
+        src="./assets/arrow.png"
+        alt="Arrow icon"
+        class="icon arrow"
+        onclick="location.href='./#experience'"
+      />
+    </section>
+    <section id="experience">
+      <p class="section__text__p1">Get to </p>
+      <h1 class="title">Explore </h1>
+      <div class="experience-details-container">
+        <div class="about-containers">
+          <div class="details-container" data-aos="fade-right">
+            <h2 class="experience-sub-title">Experience</h2>
+            <div class="article-container">
+              <article>
+                <img
+                  src="./assets/checkmark.png"
+                  alt="Experience icon"
+                  class="icon"
+                />
+                <div>
+                  <h4>WorldQuant University.</h4>
+                  <p style="font-size: 10px;">Applied Data Science Lab Intern</p>
+                </div>
+              </article>
+              <article>
+                <img
+                  src="./assets/checkmark.png"
+                  alt="Experience icon"
+                  class="icon"
+                />
+                <div>
+                  <h4>Orange EME.</h4>
+                  <p style="font-size: 10px;">SoftWare Engineering Intern</p>
+                </div>
+              </article>
+              <article>
+                <img
+                  src="./assets/checkmark.png"
+                  alt="Experience icon"
+                  class="icon"
+                />
+                <div>
+                  <h5>Innov Egypt.</h5>
+                  <p style="font-size: 10px;">Project Management Intern</p>
+                </div>
+              </article>
+
+              <article>
+                <img
+                  src="./assets/checkmark.png"
+                  alt="Experience icon"
+                  class="icon"
+                />
+                <div>
+                  <h5 style="font-size: 14px;">IEEE AIET.</h5>
+                  <p style="font-size: 10px;"> Technical Team</p>
+                </div>
+              </article>
+              <article>
+                <img
+                  src="./assets/checkmark.png"
+                  alt="Experience icon"
+                  class="icon"
+                />
+                <div>
+                  <h5 style="font-size: 14px;">Freelancer.</h5>
+                  <p style="font-size: 10px;">WEB Develober && Graphic Designer</p>
+                </div>
+              </article>
+              
+            </div>
+          </div>
+          <div class="details-container" data-aos="fade-up" >
+            <h2 class="experience-sub-title" >Services</h2>
+            <div class="article-container">
+              <article>
+                
+                <div>
+                  <h4 style="font-size: 17.5px">Data Managment</h4>
+                  <p>SQL</p>
+                </div>
+              </article>
+              <article>
+                
+                <div>
+                  <h3 style="font-size: 16px">Data Collection & Transformation</h3>
+                  <p>SQL, Python</p>
+                </div>
+              </article>
+              <article>
+                
+                <div>
+                  <h4 style="font-size: 16px">Data Cleaning & preprocessing</h4>
+                  <p>SQL, Python</p>
+                </div>
+              </article>
+              <article>
+                
+                <div>
+                  <h4 style="font-size: 16px">Exploratory Data Analysis</h4>
+                  <p>SQL, Python, Excel</p>
+                </div>
+              </article>
+              <article>
+                
+                <div>
+                  <h4 style="font-size: 17px">Data Visualization</h4>
+                  <p>Python, Tabluea, PowerBI</p>
+                </div>
+              </article>
+            </article>
+            <article>
+              <!-- <img
+                src="./assets/checkmark.png"
+                alt="Experience icon"
+                class="icon"
+              /> -->
+              <div>
+                <h4 style="font-size: 14.5px">Business Intelligence</h4>
+                <p>Tabluea, PowerBI, A/B Testing</p>
+              </div>
+            </article>
+          </article>
+          <article>
+            <!-- <img
+              src="./assets/checkmark.png"
+              alt="Experience icon"
+              class="icon"
+            /> -->
+            <div>
+              <h4 style="font-size: 15.5px">Predictive Modeling</h4>
+              <p>Python</p>
+            </div>
+          </article>
+        </article>
+        <article>
+          <!-- <img
+            src="./assets/checkmark.png"
+            alt="Experience icon"
+            class="icon"
+          /> -->
+          <div>
+            <h4 style="font-size: 14px">Descriptive Analytics</h4>
+            <p>Data Storytelling</p>
+          </div>
+        </article>
+      </article>
+            </div>
+          </div>
+          <div class="details-container " data-aos="fade-left">
+            <h2 class="experience-sub-title">Services</h2>
+            <div class="article-container">
+              <article>
+                
+                <div>
+                  <h4 style="font-size: 17.5px">Data Managment</h4>
+                  <p>SQL</p>
+                </div>
+              </article>
+              <article>
+                
+                <div>
+                  <h3 style="font-size: 16px">Data Collection & Transformation</h3>
+                  <p>SQL, Python</p>
+                </div>
+              </article>
+              <article>
+                
+                <div>
+                  <h4 style="font-size: 16px">Data Cleaning & preprocessing</h4>
+                  <p>SQL, Python</p>
+                </div>
+              </article>
+              <article>
+                
+                <div>
+                  <h4 style="font-size: 16px">Exploratory Data Analysis</h4>
+                  <p>SQL, Python, Excel</p>
+                </div>
+              </article>
+              <article>
+                
+                <div>
+                  <h4 style="font-size: 17px">Data Visualization</h4>
+                  <p>Python, Tabluea, PowerBI</p>
+                </div>
+              </article>
+            </article>
+            <article>
+              <!-- <img
+                src="./assets/checkmark.png"
+                alt="Experience icon"
+                class="icon"
+              /> -->
+              <div>
+                <h4 style="font-size: 14.5px">Business Intelligence</h4>
+                <p>Tabluea, PowerBI, A/B Testing</p>
+              </div>
+            </article>
+          </article>
+          <article>
+            <!-- <img
+              src="./assets/checkmark.png"
+              alt="Experience icon"
+              class="icon"
+            /> -->
+            <div>
+              <h4 style="font-size: 15.5px">Predictive Modeling</h4>
+              <p>Python</p>
+            </div>
+          </article>
+        </article>
+        <article>
+          <!-- <img
+            src="./assets/checkmark.png"
+            alt="Experience icon"
+            class="icon"
+          /> -->
+          <div>
+            <h4 style="font-size: 14px">Descriptive Analytics</h4>
+            <p>Data Storytelling</p>
+          </div>
+        </article>
+      </article>
+            </div>
+          </div>
+        </div>
+      </div>
+      <img
+        src="./assets/arrow.png"
+        alt="Arrow icon"
+        class="icon arrow"
+        onclick="location.href='./#projects'"
+      />
+    </section>
+    <section id="projects">
+      <p class="section__text__p1">Browse My Recent</p>
+      <h1 class="title">Projects</h1>
+      <div class="experience-details-container">
+        <div class="about-containers" >
+          <div class="details-container proj-container color-container" data-aos="fade-right">
+            <div class="article-container" >
+              <img
+                src="./assets/Untitled design (14).png"
+                alt="Project 1"
+                class="project-img"
+              />
+            </div>
+            <h2 class="experience-sub-title project-title">House Price Prediction App</h2>
+            <div class="btn-container">
+              <button
+                class="btn btn-color-2 project-btn"
+                onclick="window.open('https://github.com/adel3li/house-sales', '_blank')"
+              >
+                Github
+              </button>
+              <button
+                class="btn btn-color-2 project-btn"
+                onclick="window.open('https://house-sales-app.streamlit.app/', '_blank')"
+              >
+                Live Demo
+              </button>
+            </div>
+          </div>
+          <div class="details-container proj-container color-container" data-aos="fade-up">
+            <div class="article-container">
+              <img
+                src="./assets/3515462.jpg"
+                alt="Project 2"
+                class="project-img"
+              />
+            </div>
+            <h2 class="experience-sub-title project-title">Sales Dashboard</h2>
+            <div class="btn-container">
+<!--               <button
+                class="btn btn-color-2 project-btn"
+                onclick="window.open('https://www.novypro.com/project/sales-dashboard-267', '_blank')"
+              >
+                Github
+              </button> -->
+              <button
+                class="btn btn-color-2 project-btn"
+                onclick="window.open('https://www.novypro.com/project/sales-dashboard-267', '_blank')"
+              >
+                Live Demo
+              </button>
+            </div>
+          </div>
+          <div class="details-container proj-container color-container" data-aos="fade-left">
+            <div class="article-container">
+              <img
+                src="./assets/Untitled design (15).png"
+                alt="Project 3"
+                class="project-img"
+              />
+            </div>
+            <h2 class="experience-sub-title project-title">Sales Analysis</h2>
+            <div class="btn-container">
+              <button
+                class="btn btn-color-2 project-btn"
+                onclick="window.open('https://github.com/adel3li/olist-sales-analysis', '_blank')"
+              >
+                Github
+              </button>
+<!--               <button
+                class="btn btn-color-2 project-btn"
+                onclick="window.open('https://github.com/adel3li/olist-sales-analysis', '_blank')"
+              >
+                Live Demo
+              </button> -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <img
+        src="./assets/arrow.png"
+        alt="Arrow icon"
+        class="icon arrow"
+        onclick="location.href='./#contact'"
+      />
+    </section>
+    <section id="contact"  data-aos="zoom-in">
+      <p class="section__text__p1">Get in Touch</p>
+      <h1 class="title">Contact Me</h1>
+      <div class="contact-info-upper-container">
+        <div class="contact-info-container">
+          <img
+            src="./assets/email.png"
+            alt="Email icon"
+            class="icon contact-icon email-icon"
+          />
+          <p><a href="mailto:mahmoud.namnam72@gmail.com">mahmoud.namnam72@gmail.com</a></p>
+        </div>
+        <div class="contact-info-container">
+          <img
+            src="./assets/linkedin.png"
+            alt="LinkedIn icon"
+            class="icon contact-icon"
+          />
+          <p><a href="https://www.linkedin.com/in/mahmoud-hamed-10666b22a/">LinkedIn</a></p>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <nav>
+        <div class="nav-links-container">
+          <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+      <!-- <p>Copyright &#169; 2023 John Doe. All Rights Reserved.</p> -->
+    </footer>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script>
+        
+        AOS.init({
+            duration: 1200, 
+    
+        });
+    </script>
+  </body>
+</html>
