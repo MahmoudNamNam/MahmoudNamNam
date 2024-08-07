@@ -321,7 +321,7 @@ section {
   text-align: center;
 }
 .details-container.proj-container {
-  padding: 1.5rem;
+    padding: 1.5rem;
     flex: 1;
     background: white;
     border-radius: 2rem;
@@ -331,6 +331,8 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
 .section-container {
