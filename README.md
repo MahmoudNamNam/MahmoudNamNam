@@ -4,6 +4,7 @@
 
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudNamNam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github status" />
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNamNam&area=true&hide_border=true" height="150" alt="activity-graph graph" />
 </div>
