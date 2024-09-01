@@ -1,7 +1,13 @@
 <h2 align="left">Hi there!👋🏼 My name is Mahmoud Namnam, and I am a fourth-year computer science student.</h2>
 
 <div align="center">
-  
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MahmoudNamNam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNamNam&area=true&hide_border=true" height="150" alt="activity-graph graph" />
 </div>
