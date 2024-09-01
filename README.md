@@ -3,8 +3,7 @@
 <div align="center">
   
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudNamNam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNamNam&area=true&hide_border=true" height="150" alt="activity-graph graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNamNam&area=true&hide_border=true" height="150" alt="activity-graph graph" />
 </div>
 
 <img align="right" height="200" src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/main/img.gif" alt="animated gif" />
