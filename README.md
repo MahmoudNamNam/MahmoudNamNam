@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNamNam&area=true&hide_border=true&theme=react-dark" height="200" alt="activity-graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudNamNam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudNamNam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
 </div>
 
 <!-- Animated GIF -->
