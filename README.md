@@ -17,7 +17,7 @@
 <!-- About Me Section -->
 <h3 align="center">About Me 👨‍💻</h3>
 <p align="center">
-  I am passionate about solving real-world problems using technology. My interests lie in Data Science, AI, and software development. When I’m not coding, I enjoy learning new languages, cooking, reading, listening to music, and running.
+  I am passionate about leveraging technology to solve real-world problems. I am interested in data science, AI, and software development. In my free time, I enjoy learning new languages, cooking, reading, listening to music, and running.
 </p>
 
 <!-- Languages & Tools Section -->
