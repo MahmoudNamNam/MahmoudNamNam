@@ -1,3 +1,4 @@
+<!-- Introduction -->
 <h2 align="center">Hi there! 👋🏼</h2>
 <h3 align="center">I'm Mahmoud Namnam, a fourth-year Computer Science student 🚀</h3>
 
@@ -13,7 +14,13 @@
   <img src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/main/img.gif" height="200" alt="animated gif" />
 </div>
 
-<!-- Tech Skills Section -->
+<!-- About Me Section -->
+<h3 align="center">About Me 👨‍💻</h3>
+<p align="center">
+  I am passionate about solving real-world problems using technology. My interests lie in Data Science, AI, and software development. When I’m not coding, I enjoy learning new languages, cooking, reading, listening to music, and running.
+</p>
+
+<!-- Languages & Tools Section -->
 <h3 align="center">Languages & Tools 🛠️</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -23,6 +30,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
+
+<!-- Skills & Achievements -->
+<h3 align="center">Skills & Achievements 🎓</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/Python-green.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Data_Science-blueviolet?style=for-the-badge&logo=data-science&logoColor=white" alt="Data Science Badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-yellowgreen?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning Badge" />
+</div>
+
+<!-- GitHub Trophies -->
+<h3 align="center">GitHub Trophies 🏆</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudNamNam&theme=darkhub&row=1&column=6&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 <!-- Social Links Section -->
@@ -36,6 +58,12 @@
   </a>
   <a href="mailto:mahmoud.namnam72@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://gist.github.com/MahmoudNamNam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gist&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gist" />
+  </a>
+  <a href="https://leetcode.com/MahmoudNamNam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode" />
   </a>
 </div>
 
