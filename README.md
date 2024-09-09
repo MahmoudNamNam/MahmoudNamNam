@@ -74,8 +74,8 @@
   <a href="mailto:mahmoud.namnam72@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://gist.github.com/MahmoudNamNam" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gist&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gist" />
+  <a href="https://github.com/MahmoudNamNam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gist&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Github" />
   </a>
   <a href="https://leetcode.com/MahmoudNamNam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode" />
