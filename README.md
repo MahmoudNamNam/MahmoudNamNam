@@ -1,4 +1,4 @@
-Here’s a refined version of your GitHub profile to make it more engaging and polished:
+Sure! Here’s an updated version of your GitHub profile with additional graphs to enhance your stats and activity display:
 
 ---
 
@@ -9,7 +9,17 @@ Here’s a refined version of your GitHub profile to make it more engaging and p
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNamNam&area=true&hide_border=true&theme=react-dark" height="200" alt="Mahmoud's activity graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudNamNam&theme=holi&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="Mahmoud's GitHub stats" />
+ <!--  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudNamNam&theme=holi&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="Mahmoud's GitHub stats" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudNamNam&theme=react-dark&hide_border=false" height="200" alt="GitHub Streak" />
+</div>
+
+<!-- Language Stats -->
+<div align="center">
+
+  <!-- Contribution Stats -->
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudNamNam&theme=vue" height="200" alt="Contribution Stats" />-->
 </div>
 
 <!-- Animated GIF -->
@@ -87,4 +97,6 @@ Here’s a refined version of your GitHub profile to make it more engaging and p
 <div align="center">
   <img src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/output/snake.svg" alt="Snake animation" />
 </div>
+
+---
 
