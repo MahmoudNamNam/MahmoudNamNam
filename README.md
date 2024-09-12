@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello, I'm Mahmoud Namnam! 👋🏼</h2>
-<h3 align="center">A Passionate Computer Science Student 🚀</h3>
+<h3 align="center">A Computer Science Student 🚀</h3>
 
 <!-- Activity Graph & GitHub Stats -->
 <div align="center">
