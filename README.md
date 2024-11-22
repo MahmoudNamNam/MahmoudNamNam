@@ -84,5 +84,3 @@
 <div align="center">
   <img src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/output/snake.svg" alt="Snake animation" />
 </div>
-
-
