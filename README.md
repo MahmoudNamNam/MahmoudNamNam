@@ -14,11 +14,7 @@
  <img src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/main/img.gif" height="198" alt="Animated GIF" />
 </div>
 
-<!-- GitHub Trophies -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudNamNam&theme=darkhub&row=1&column=6&no-frame=true" alt="Mahmoud's GitHub Trophies" />
-</div>
+
 
 <!-- About Me Section -->
 <h3 align="center">👨‍💻 About Me</h3>
