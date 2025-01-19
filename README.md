@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudNamNam&theme=city-lights&hide_border=false" height="198" width="49%" alt="GitHub Streak" />
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudNamNam&theme=city-lights&hide_border=false" height="198" width="49%" alt="GitHub Streak" /> -->
 
   
  <img src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/main/img.gif" height="198" alt="Animated GIF" />
