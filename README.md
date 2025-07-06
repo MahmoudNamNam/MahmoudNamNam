@@ -14,7 +14,7 @@
  <img src="https://github.com/MahmoudNamNam/MahmoudNamNam/blob/main/img.gif" height="198" alt="Animated GIF" />
 </div>
 
-
+/*
 
 <!-- About Me Section -->
 <h3 align="center">👨‍💻 About Me</h3>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Data_Science-blueviolet?style=for-the-badge&logo=data-science&logoColor=white" alt="Data Science Badge" />
   <img src="https://img.shields.io/badge/Machine_Learning-yellowgreen?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning Badge" />
 </div>
-
+*/
 <!-- Social Links Section -->
 <h3 align="center">🌐 Connect with me</h3>
 <div align="center">
